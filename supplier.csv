@@ -1,0 +1,12 @@
+supplier_id,supplier_name,contact,category_supplied,delivery_time_days,reliability_score
+
+SUP001,Shree Traders,9811111111,Grocery,3,4.6
+SUP002,Mahesh Foods,9811111112,Grocery,4,4.3
+SUP003,Sweet Supplies,9811111113,Grocery,2,4.8
+SUP004,Golden Oil Co.,9811111114,Grocery,5,4.1
+SUP005,Assam Tea House,9811111115,Grocery,3,4.5
+SUP006,Fresh Dairy Ltd,9811111116,Dairy,1,4.7
+SUP007,Dairy Best,9811111117,Dairy,2,4.2
+SUP008,CleanHome Supplies,9811111118,Household,4,4.4
+SUP009,DailyCare Products,9811111119,Personal Care,3,4.0
+SUP010,Tasty Treats,9811111120,Snacks,2,4.6

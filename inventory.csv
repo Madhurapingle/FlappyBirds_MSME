@@ -1,0 +1,17 @@
+item_id,item_name,category,quantity,reorder_level,supplier,unit_price
+
+I001,Rice 25kg Bag,Grocery,120,40,Shree Traders,1250
+I002,Wheat Flour 10kg,Grocery,85,30,Mahesh Foods,420
+I003,Sugar 5kg,Grocery,60,25,Sweet Supplies,230
+I004,Cooking Oil 1L,Grocery,150,50,Golden Oil Co.,180
+I005,Tea Powder 500g,Grocery,70,20,Assam Tea House,260
+I006,Milk Packets,Dairy,40,60,Fresh Dairy Ltd,55
+I007,Butter 200g,Dairy,25,30,Fresh Dairy Ltd,110
+I008,Cheese 200g,Dairy,18,25,Dairy Best,140
+I009,Detergent 1kg,Household,90,35,CleanHome Supplies,95
+I010,Dishwash Liquid,Household,65,25,CleanHome Supplies,85
+I011,Soap Bar,Household,200,80,DailyCare Products,35
+I012,Shampoo 180ml,Personal Care,45,20,BeautyPlus,120
+I013,Toothpaste 150g,Personal Care,55,25,SmileCare,90
+I014,Biscuits Pack,Snacks,110,40,Tasty Treats,25
+I015,Namkeen Pack,Snacks,95,35,Tasty Treats,30

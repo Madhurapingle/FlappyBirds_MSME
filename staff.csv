@@ -1,0 +1,17 @@
+staff_id,name,contact,department,task_assigned,availability
+
+S001,Rahul Patil,9876543210,Sales,Follow up with new customers,Available
+S002,Sneha Kulkarni,9876543211,Sales,Prepare daily sales report,Busy
+S003,Amit Sharma,9876543212,Inventory,Check stock levels,Available
+S004,Pooja Verma,9876543213,Inventory,Update inventory records,Busy
+S005,Rohit Deshmukh,9876543214,Operations,Schedule daily operations,Available
+S006,Neha Joshi,9876543215,Operations,Monitor order processing,Busy
+S007,Karan Mehta,9876543216,Logistics,Coordinate product delivery,Available
+S008,Anjali Singh,9876543217,Logistics,Track shipment status,Busy
+S009,Vikram Rao,9876543218,Procurement,Contact suppliers for pricing,Available
+S010,Ritu Malhotra,9876543219,Procurement,Place purchase orders,Busy
+S011,Arjun Nair,9876543220,Finance,Record daily expenses,Available
+S012,Kavya Iyer,9876543221,Finance,Prepare monthly budget,Busy
+S013,Suresh Yadav,9876543222,Customer Support,Handle customer complaints,Available
+S014,Meena Gupta,9876543223,Customer Support,Respond to WhatsApp queries,Busy
+S015,Nikhil Bansal,9876543224,Management,Review team performance,Available
